@@ -1,0 +1,11 @@
+Model Information:
+* title:	Le cheval sans le cavalier by Bourdelle
+* source:	https://sketchfab.com/3d-models/le-cheval-sans-le-cavalier-by-bourdelle-74cf4075c21941ceb263374cf253fa8b
+* author:	godardparis (https://sketchfab.com/godardparis)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Le cheval sans le cavalier by Bourdelle" (https://sketchfab.com/3d-models/le-cheval-sans-le-cavalier-by-bourdelle-74cf4075c21941ceb263374cf253fa8b) by godardparis (https://sketchfab.com/godardparis) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
