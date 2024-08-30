@@ -256,7 +256,6 @@ function initLight() {
 
 	// Luz em área
 	const rlight = new THREE.RectAreaLight(0xFFFFFF, 5, 1.0, 7);
-	rlight.castShadow = true;
 	rlight.position.set(8, 5.8, 2);
 	rlight.rotation.x = THREE.MathUtils.degToRad(-90);
 	scene.add(rlight);
