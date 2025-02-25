@@ -13,7 +13,7 @@ Para tanto simulou-se um ambiente de uma galeria de arte, com a exposição de p
 
 ## Como rodar o trabalho?
 
-1. Baixe a pasta Assets diretamente desse repositório: . Após isso, cria uma pasta que contenha a pasta assetes e a parta art_gallery.
+1. Baixe a pasta Assets diretamente desse repositório: "https://github.com/aapolinariojr/Assets" . Após isso, crie uma nova pasta que contenha a outras duas pastas: assets e a art_gallery.
 2. É possível visualizar o trabalho por meio do arquivo "gallery.html", dentro da pasta CodigoBase. Rode o live server. 
 
 ## Links dos modelos:
